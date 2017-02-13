@@ -1,0 +1,11 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "initial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "cemre",
+  "license": "ISC"
+}
